@@ -219,7 +219,7 @@ margin-right:0.5rem;
 }
 #showcase:before {
   content: '';
-  background: url(/img/featured.jpg) no-repeat center center/cover;
+  background: url(../img/featured.jpg) no-repeat center center/cover;
   position: absolute;
   top:0;
   left:0;
@@ -315,4 +315,7 @@ margin-top: 0.4rem;
 
 #main-footer .footer-container input[type='submit']{
   width: 90%;
+}
+.copy {
+  margin-top: 0.5rem;
 }
